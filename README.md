@@ -1,6 +1,5 @@
 # 💫 About Me:
-Pursuing Bachelor of Engineering(BE) in IT at Vivekanand Education Society's Institute Of Technology<br><br>
-
+Passionate About Possibilities
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_rushi_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-yeole24/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rushyeole24) 
